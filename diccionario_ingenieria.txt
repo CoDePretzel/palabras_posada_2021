@@ -1,0 +1,9 @@
+motor
+chip
+diagrama
+PCB
+osciloscopio
+fuente de alimentación
+analizador lógico
+multímetro
+compilador
